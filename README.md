@@ -3,7 +3,7 @@ Trabalho no Suporte Técnico do Asaas, no squad de Sucesso de Integrações (API
 
 ## O que eu estou aprendendo
   
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isaOiveira&layout=compact&bg_color=000&border_color=ff0000&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isaOliveira&layout=compact&bg_color=000&border_color=ff0000&title_color=E94D5F&text_color=FFF)
 
 ## Conecte-se comigo
 
