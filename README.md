@@ -1,8 +1,8 @@
-<h1 align="center">Olá! Eu sou Isadora Pimenta</h1>
+<h1 align="center">Olá!Eu sou Isadora Pimenta</h1>
 Trabalho no Suporte Técnico do Asaas, no squad de Sucesso de Integrações (API) como Jovem Aprendiz.
-## O que eu estou aprendendo
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leticiaschmitt&layout=compact&bg_color=000&border_color=ff0000&title_color=E94D5F&text_color=FFF)
-## Conecte-se comigo
+  ## O que eu estou aprendendo
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isaOiveira&layout=compact&bg_color=000&border_color=ff0000&title_color=E94D5F&text_color=FFF)
+  ## Conecte-se comigo
 ###
 <div align="left">
   <a href="https://www.instagram.com/isa.pm/" target="_blank">
